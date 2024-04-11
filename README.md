@@ -1,11 +1,13 @@
-# <p align="center">Hi there, I'm Adam</p>
-<p align="center">Interested in all things data. From data engineering to data science, with analysis and visualization in between. Currently working as a Data Product Manager.</p>
+# <p align="center">Hello, I'm Adam</p>
+<p align="center">Fusce lorem nulla, luctus eget auctor in, consequat at massa. Donec consequat tortor quis mollis vulputate. Donec posuere consequat tellus eu efficitur. Pellentesque sollicitudin ipsum nec tincidunt lobortis. Nullam auctor quam at lorem pulvinar varius. Duis laoreet, urna eget congue imperdiet, lacus risus scelerisque lacus.</p>
 
 ## My Work
 - Maecenas vulputate faucibus nisi
 - Quisque ex neque
 - Sed faucibus quam tortor
 - Lorem ipsum dolor sit amet
+
+## 
 
 
 
