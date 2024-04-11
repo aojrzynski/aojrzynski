@@ -1,4 +1,8 @@
-### Hi there 👋
+# <p align="center">Hi there, I'm Adam</p>
+
+
+
+
 
 <!--
 **aojrzynski/aojrzynski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
