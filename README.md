@@ -1,14 +1,16 @@
+<!--
 # <p align="center">Hello, I'm Adam</p>
-<p align="center">Fusce lorem nulla, luctus eget auctor in, consequat at massa. Donec consequat tortor quis mollis vulputate. Donec posuere consequat tellus eu efficitur. Pellentesque sollicitudin ipsum nec tincidunt lobortis. Nullam auctor quam at lorem pulvinar varius. Duis laoreet, urna eget congue imperdiet, lacus risus scelerisque lacus.</p>
+<p>
+I used to wrangle code as a developer, but now I wrangle products as a Data Product Manager. In my spare time, I code and experiment with projects that reflect my interests across data science, engineering, analytics, and cybersecurity. Whether you're here to check out my work or collaborate, I'm always up for connecting with new people.
+</p>
 
 ## My Work
-- Maecenas vulputate faucibus nisi
-- Quisque ex neque
-- Sed faucibus quam tortor
-- Lorem ipsum dolor sit amet
+- Data Science Projects: TBD
+- Data Analytics Projects: TBD
+- Data Engineering Projects: TBD
 
-## 
-
+## Connect With Me
+-->
 
 
 
