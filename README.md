@@ -1,31 +1,18 @@
-<!--
 # <p align="center">Hello, I'm Adam</p>
 <p>
-I used to wrangle code as a developer, but now I wrangle products as a Data Product Manager. In my spare time, I code and experiment with projects that reflect my interests across data science, engineering, analytics, and cybersecurity. Whether you're here to check out my work or collaborate, I'm always up for connecting with new people.
+I used to spend my days writing code as a developer, but now I focus on products as a Data Product Manager. In my free time, I still love to tinker with code, exploring projects that dive into data science, engineering, analytics, and sometimes a bit of cybersecurity. Whether you're here to see my work, chat, or maybe collaborate on something, I’m happy to connect.
 </p>
 
-## My Work
-- Data Science Projects: TBD
-- Data Analytics Projects: TBD
-- Data Engineering Projects: TBD
+## Current Focus
+By day, I’m a Data Product Manager, and on the side, I’m currently working on a few small data engineering projects, exploring the world of LLMs, and reading up on data governance.
+
+## My Projects
+- Data Science Projects: https://github.com/aojrzynski/Data-Science-Projects 
+- Analytics Projects: https://github.com/aojrzynski/Analytics-Projects 
+- Data Engineering Projects: Coming Soon!
+
+## Random Assortment of Skill Icons
+[![My Skills](https://skillicons.dev/icons?i=py,r,mysql,ai,bootstrap,django,js,jquery,html,css,azure,aws,anaconda&perline=5)](https://skillicons.dev)
 
 ## Connect With Me
--->
-
-
-
-
-<!--
-**aojrzynski/aojrzynski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out to me via <a href="https://www.linkedin.com/in/adam-ojrzynski/">LinkedIn</a> 
