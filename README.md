@@ -9,7 +9,7 @@ By day, I’m a Data Product Manager, and on the side, I’m currently working o
 ## My Projects
 - Data Science Projects: https://github.com/aojrzynski/Data-Science-Projects 
 - Analytics Projects: https://github.com/aojrzynski/Analytics-Projects 
-- Data Engineering Projects: Coming Soon!
+- Data Engineering Projects: https://github.com/aojrzynski/Data-Engineering-Projects
 
 ## Random Assortment of Skill Icons
 [![My Skills](https://skillicons.dev/icons?i=py,r,mysql,ai,bootstrap,django,js,jquery,html,css,azure,aws,anaconda&perline=5)](https://skillicons.dev)
