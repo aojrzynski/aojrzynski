@@ -13,7 +13,7 @@ The idea is simple: not every data task should be thrown straight at an LLM. Som
 
 ### Products
 - **ReadyRoll**
-  - A live scheduling app for board game groups and other small groups.
+  - A scheduling app for board game groups and other small groups.
   - It helps groups find the best day to meet without messy chat threads or one-off polls.
   - App link: https://readyroll.io
 
