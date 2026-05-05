@@ -1,15 +1,21 @@
 # <p align="center">Hello, I'm Adam</p>
 <p>
-I'm a Data Product Manager based in London. I work around data products, governance, analytics, AI and data engineering.
-I use this GitHub for my own projects and experiments. Some are learning projects, some are tools, and some are just me working through an idea properly enough that someone else could inspect, run, or build on it.
+I'm a Data Product Manager based in London. I work around data products, governance, analytics, AI and data engineering. I also run ReadyRoll, a live scheduling app for small groups.
+I use this GitHub for my own projects and experiments. Some are learning projects, some are useful tools, and some are me working through an idea properly enough that someone else could inspect, run, or build on it.
 </p>
 
 ## Current Focus
 At the moment I'm building a small set of local-first data agents.
 
-The idea is simple: there are situations where not every data task should be thrown straight at an LLM. Some parts should be deterministic, testable, and cheap. The agent layer should orchestrate those checks, explain what happened, and produce useful outputs.
+The idea is simple: not every data task should be thrown straight at an LLM. Some parts should be deterministic, testable, and cheap. The agent layer should orchestrate those checks, explain what happened, and produce useful outputs.
 
-## My Projects
+## My Work
+
+### Products
+- **ReadyRoll**
+  - A live scheduling app for board game groups and other small groups.
+  - It helps groups find the best day to meet without messy chat threads or one-off polls.
+  - App link: https://readyroll.io
 
 ### AI Agents
 - #### Data Quality Triage Agent:
